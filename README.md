@@ -1,1 +1,1 @@
-# ts_parser
+To run this parser, a source file containing the read packets is required. You can download it from the [link](https://drive.google.com/file/d/11tYIcA5TDVN1HTFH0fqvF_-T28Y9n7M5/view?usp=drive_link). Place it in root folder of the project.
